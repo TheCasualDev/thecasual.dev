@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+		
+        <title>Taking you to the Future Dev YouTube...</title>
+        <style>
+
+			@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&family=Tilt+Warp&display=swap');
+
+            body{
+
+				background-color: #57284d;
+				color: white;
+				text-align: center;
+
+				font-family: 'Tilt Warp', cursive;
+				font-size: x-large;
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+		
+		<h1>REDIRECTING...</h1>
+		<p>Taking you to the Future Dev YouTube...</p>
+
+        <script> window.location.replace("https://www.youtube.com/@FutureDevs-RBLX?sub_confirmation=1"); </script> 
+
+    </body>
+
+</html>
